@@ -60,7 +60,7 @@ export default function Footer() {
               <p
                 class="max-w-md mx-auto mt-6 leading-relaxed text-center text-gray-400 sm:max-w-xs sm:mx-0 sm:text-left"
               >
-                Established in 2008, Mixed Combative Systems continues to teach students across the Bay Area and serve the community of American Canyon, California. We welcome kids and adults of all fitness and skill levels.  Group classes are offered Saturdays and Wednesdays. Walk-ins welcomed. Private classes / 1:1 sessions by appointment.
+                Established in 2006, Mixed Combative Systems continues to teach students across the Bay Area and serve the community of American Canyon, California. We welcome kids and adults of all fitness and skill levels.  Group classes are offered Saturdays and Wednesdays. Walk-ins welcomed. Private classes / 1:1 sessions by appointment.
               </p>
 
               <ul class="flex justify-center gap-6 mt-8 md:gap-8 sm:justify-start">
