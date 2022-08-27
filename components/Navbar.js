@@ -26,37 +26,35 @@ export default function Footer() {
                         <ul class="flex items-center gap-6 text-sm">
                             <li>
                                 <a class="text-white transition hover:text-white/75" href="/">
-                                    About
+                                    Home
                                 </a>
                             </li>
 
                             <li>
-                                <a class="text-white transition hover:text-white/75" href="/">
-                                    Careers
+                                <a class="text-white transition hover:text-white/75" href="/about-us">
+                                    About Us
+                                </a>
+                            </li>
+                            <li>
+                                <a class="text-white transition hover:text-white/75" href="/program">
+                                    Classes / Schedule
+                                </a>
+                            </li>
+                            <li>
+                                <a class="text-white transition hover:text-white/75" href="/meet-your-instructor/">
+                                    Meet your instructor
                                 </a>
                             </li>
 
                             <li>
-                                <a class="text-white transition hover:text-white/75" href="/">
-                                    History
+                                <a class="text-white transition hover:text-white/75" href="/contact-us">
+                                    Contact Us
                                 </a>
                             </li>
 
                             <li>
-                                <a class="text-white transition hover:text-white/75" href="/">
-                                    Services
-                                </a>
-                            </li>
-
-                            <li>
-                                <a class="text-white transition hover:text-white/75" href="/">
-                                    Projects
-                                </a>
-                            </li>
-
-                            <li>
-                                <a class="text-white transition hover:text-white/75" href="/">
-                                    Blog
+                                <a class="text-white transition hover:text-white/75" href="/past-events/">
+                                    Past Events
                                 </a>
                             </li>
                         </ul>
@@ -65,15 +63,10 @@ export default function Footer() {
                     <div class="flex items-center gap-4">
                         <div class="sm:gap-4 sm:flex">
                             <a
-                                class="block px-5 py-2.5 text-sm font-medium text-white bg-teal-600 hover:bg-teal-500 transition rounded-md shadow"
-                                href="/"
-                            >
-                                Login
-                            </a>
-
-                            <a
                                 class="hidden sm:block px-5 py-2.5 text-sm font-medium text-white bg-gray-800 rounded-md hover:text-white/75 transition"
-                                href="/"
+                                href="https://secure.rec1.com/CA/american-canyon-ca/catalog"
+                                target="_blank"
+                                rel="noreferrer noopener"
                             >
                                 Register
                             </a>
@@ -89,11 +82,11 @@ export default function Footer() {
                                 fill="none"
                                 viewBox="0 0 24 24"
                                 stroke="currentColor"
-                                stroke-width="2"
+                                strokeWidth="2"
                             >
                                 <path
-                                    stroke-linecap="round"
-                                    stroke-linejoin="round"
+                                    strokeLinecap="round"
+                                    strokeLinejoin="round"
                                     d="M4 6h16M4 12h16M4 18h16"
                                 />
                             </svg>
